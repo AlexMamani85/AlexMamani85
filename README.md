@@ -11,65 +11,22 @@ Basics:
 [![My Skills](https://skillicons.dev/icons?i=html,css,ts,ruby,js,py)](https://skillicons.dev)
 </p>
 
+Frontend:
+[![My Skills](https://skillicons.dev/icons?i=ts,vite,vue,react,materialui,tailwind)](https://skillicons.dev)
 
-<table>
-  <tbody>
-  <tr>
-    <td>
-      Basics:
-    </td>    
-    <td>
-      [![My Skills](https://skillicons.dev/icons?i=html,css,ts,ruby,js,py)](https://skillicons.dev)
-    </td>
-  </tr>  
+Backend:
+[![My Skills](https://skillicons.dev/icons?i=express,nodejs,rails)](https://skillicons.dev)
 
-  <tr>
-    <td>
-	Frontend:
-    </td>    
-    <td>
-	[![My Skills](https://skillicons.dev/icons?i=ts,vite,vue,react,materialui,tailwind)](https://skillicons.dev)
-    </td>
-  </tr>  
+Databases:
+[![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres)](https://skillicons.dev)
 
-  <tr>
-    <td>
-	Backend:
-    </td>    
-    <td>
-	[![My Skills](https://skillicons.dev/icons?i=express,nodejs,rails)](https://skillicons.dev)
-    </td>
-  </tr>  
 
-  <tr>
-    <td>
-	Databases:
-    </td>    
-    <td>
-	[![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres)](https://skillicons.dev)
-    </td>
-  </tr>  
+Things I'm learning:
+[![My Skills](https://skillicons.dev/icons?i=vue,aws,firebase)](https://skillicons.dev)
 
-  <tr>
-    <td>
-	Things I'm learning:
-    </td>    
-    <td>
-	[![My Skills](https://skillicons.dev/icons?i=vue,aws,firebase)](https://skillicons.dev)
-    </td>
-  </tr>  
+Things I want to learn:
+[![My Skills](https://skillicons.dev/icons?i=angular,django,graphql,dart,flutter)](https://skillicons.dev)
 
-  <tr>
-    <td>
-	Things I want to learn:
-    </td>    
-    <td>
-	[![My Skills](https://skillicons.dev/icons?i=angular,django,graphql,dart,flutter)](https://skillicons.dev)
-    </td>
-  </tr>  
-
-  </tbody>
-</table>
 
 
 
