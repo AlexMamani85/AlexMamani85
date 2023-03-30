@@ -3,7 +3,7 @@
 I am a graduated student from Codeable, with passion to learn and
 positive attitude.
 
-Skills: VUE JS / REACT / JS / HTML / CSS / 
+
 
 Basics:
 [![My Skills](https://skillicons.dev/icons?i=html,css,ts,ruby,js,py)](https://skillicons.dev)
