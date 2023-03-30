@@ -6,6 +6,10 @@ positive attitude.
 Skills: VUE JS / REACT / JS / HTML / CSS / 
 
 - 🔭 I’m currently working on this page. 
+<p style="text-align: center">
+Basics:
+[![My Skills](https://skillicons.dev/icons?i=html,css,ts,ruby,js,py)](https://skillicons.dev)
+</p>
 
 
 <table>
