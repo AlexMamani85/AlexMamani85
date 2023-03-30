@@ -8,7 +8,24 @@ Skills: VUE JS / REACT / JS / HTML / CSS /
 - 🔭 I’m currently working on this page. 
 
 
+Basics:
+[![My Skills](https://skillicons.dev/icons?i=html,css,ts,ruby,js,py)](https://skillicons.dev)
 
+Frontend:
+[![My Skills](https://skillicons.dev/icons?i=ts,vite,vue,react,materialui,tailwind)](https://skillicons.dev)
+
+Backend:
+[![My Skills](https://skillicons.dev/icons?i=express,nodejs,rails)](https://skillicons.dev)
+
+Databases:
+[![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres)](https://skillicons.dev)
+
+
+Things I'm learning:
+[![My Skills](https://skillicons.dev/icons?i=vue,aws,firebase)](https://skillicons.dev)
+
+Things I want to learn:
+[![My Skills](https://skillicons.dev/icons?i=angular,django,graphql,dart,flutter)](https://skillicons.dev)
 
 
 
