@@ -3,6 +3,7 @@
 <p style="text-align: justify">
   I am a graduated student from Codeable, with passion to learn and positive attitude.
 </p>
+<div style="text-align: justify"> Tecsup is one of the most prestigious educational institution in Peru. During the last semester in Tecsup, we had a class about "Mechanism Analysis", the final project was about the thesis for of the teacher's collegue (for a master degreee). It was unbelievable that the only one who did it, was me. </div>
 
 <p style="text-align: justify">
 Tecsup is one of the most prestigious educational institution in Peru. During the last semester in Tecsup, we had a class about "Mechanism Analysis", the final project was about the thesis for of the teacher's collegue (for a master degreee). It was unbelievable that the only one who did it, was me.
