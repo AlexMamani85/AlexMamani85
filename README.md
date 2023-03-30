@@ -14,14 +14,14 @@ Basics:
 Frontend:
 [![My Skills](https://skillicons.dev/icons?i=ts,vite,vue,react,materialui,tailwind)](https://skillicons.dev)
 
-Backend:
+Backend:      
 [![My Skills](https://skillicons.dev/icons?i=express,nodejs,rails)](https://skillicons.dev)
 
-Databases:
+Databases:    
 [![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres)](https://skillicons.dev)
 
 
-Things I'm learning:
+Things I'm learning:  
 [![My Skills](https://skillicons.dev/icons?i=vue,aws,firebase)](https://skillicons.dev)
 
 Things I want to learn:
