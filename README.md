@@ -45,8 +45,10 @@ Databases:
 Things I'm learning:
 [![My Skills](https://skillicons.dev/icons?i=vue,aws,firebase)](https://skillicons.dev)
 
+<!--
+---- OJO
 Things I want to learn:
-[![My Skills](https://skillicons.dev/icons?i=angular,django,graphql,dart,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,django,graphql,dart,flutter)](https://skillicons.dev) -->
 
 <!--
 **AlexMamani85/AlexMamani85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
